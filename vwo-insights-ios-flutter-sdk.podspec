@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 	s.author            = { 'VWO' => 'info@wingify.com' }
 	s.platform     	    = :ios, '12.0'
    	s.swift_version = '5.0'
-	s.source            = { :http => 'https://github.com/wingify/vwo-insights-ios-flutter-sdk/raw/#{s.version}/vwo_insights_ios_flutter_sdk.xcframework.zip', :type => 'zip' }
+	s.source            = { :http => 'https://github.com/wingify/vwo-insights-ios-flutter-sdk/raw/0.0.5/vwo_insights_ios_flutter_sdk.xcframework.zip', :type => 'zip' }
 	s.ios.vendored_frameworks = 'vwo_insights_ios_flutter_sdk.xcframework'
 
 end
