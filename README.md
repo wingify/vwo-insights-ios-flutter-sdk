@@ -22,10 +22,12 @@ To integrate VWO Insights into your iOS application, follow these steps after co
 1. **Initialize VWO SDK**
    - Import VWO SDK into your application.
    - Initialize the SDK with your API key.
+   - If app support SwiftUI than pass isSwiftui true
+   - If app created in swift and supports Flutter Module than pass isModuleEnabled as true
 
    ```swift
    import vwo_insights_ios_flutter_sdk
-   VWO.configure(accountId: "", sdkKey: "", userId: "")
+   VWO.configure(accountId: "", sdkKey: "",isModuleEnabled : false ,isSwiftUI : false userId: "")
    ```
    
 2. **Track User Actions**
