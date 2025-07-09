@@ -1,5 +1,6 @@
 
 [SDK v1.0.4]
+
 What’s New in This Release:
     
     • Scenarios for manual hiding views.
@@ -21,7 +22,9 @@ Fixed
 
 
 [SDK v1.0.3] 
+
 What’s New in This Release:
+
     • New logic for dynamic key flow to support changing app keys and account IDs.
 
     • Crashlytics and Mixpanel integration support.
@@ -36,7 +39,9 @@ Fixed
     • Updated device and crash event logic to align with SDK improvements.
 
 [SDK v1.0.2] 
+
 What’s New in This Release:
+
     • Feature to automatically capture screen views upon app launch.
 
     • Support for additional device properties to be included in events.
@@ -49,7 +54,9 @@ Fixed
     • Updated the logic for capturing dynamic events in the background.
 
 [SDK v1.0.1] 
+
 What’s New in This Release:
+
     • Added support for custom attributes and events.
 
     • Initial integration of hybrid SDK features.
