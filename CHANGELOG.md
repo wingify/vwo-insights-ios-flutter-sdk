@@ -1,4 +1,10 @@
 
+[SDK v1.0.5]
+
+What’s New in This Release:
+    
+    • Support for pausing and resuming session recording. Now, you can pause a session recording when needed and resume it later without losing any data.
+    
 [SDK v1.0.4]
 
 What’s New in This Release:
