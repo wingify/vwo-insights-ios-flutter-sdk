@@ -1,4 +1,10 @@
 
+[SDK v1.0.6]
+
+Fixed
+
+    • Minor bug fixes for session recording events.
+    
 [SDK v1.0.5]
 
 What’s New in This Release:
