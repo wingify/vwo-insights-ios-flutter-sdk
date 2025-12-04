@@ -1,4 +1,9 @@
+[SDK v1.0.7]
 
+Fixed
+
+    • Improved SDK performance for newer iOS versions, resulting in faster initialization and smoother runtime behavior.
+    
 [SDK v1.0.6]
 
 Fixed
